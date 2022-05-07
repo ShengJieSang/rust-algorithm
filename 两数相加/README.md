@@ -12,8 +12,6 @@
 
 ### 模式匹配
 
-+ 复杂度O(n) n为较长链表的长度
-
 **关注点：**  
 
 1. 两个列表对应的值 `l1 l2`
@@ -101,8 +99,6 @@ pub fn add_two_numbers(l1: Option<Box<ListNode>>, l2: Option<Box<ListNode>>) -> 
 ```
 
 ### 递归
-
-+ 复杂度O(n)
 
 **解题思路：**
 
